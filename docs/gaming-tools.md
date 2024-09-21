@@ -530,9 +530,10 @@
 * ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-rich Launcher / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
 * ⭐ **Prism Launcher Tools** - [Free Method](https://rentry.co/Prism4Free) / [Offline Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) / [Ely.by Version](https://github.com/Octol1ttle/ElyPrismLauncher)
 * ⭐ **[ATLauncher](https://atlauncher.com/)** or [Technic Launcher](https://www.technicpack.net/) - Modpack Launcher
+* ⭐ **[Modrinth App](https://modrinth.com/app)** Easy to use Mod Manager and Launcher
 * ⭐ **[Pojav](https://pojavlauncherteam.github.io/)** - Java Edition for Android & iOS (Requires Legit Account)
 * [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) or [Bedrock Launcher](https://bedrocklauncher.github.io/) - Launchers for Bedrock Edition
-* [SkLauncher](https://skmedix.pl/) - User-friendly Launcher
+* [SkLauncher](https://skmedix.pl/) - User-friendly Launcher for Cracked Accounts
 * [UltimMC](https://github.com/UltimMC/Launcher) - Launcher for Cracked Accounts
 * [Betacraft](https://betacraft.uk/) - Legacy Versions Launcher
 * [CheatBreaker](https://cheatbreaker.net/) - FPS Modpack Launcher / [GitHub](https://github.com/CheatBreakerNet/Launcher)
